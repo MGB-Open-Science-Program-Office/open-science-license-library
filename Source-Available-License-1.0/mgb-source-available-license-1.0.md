@@ -4,7 +4,6 @@ These license terms are an agreement between You and Mass General Brigham Incorp
 
 _By installing, downloading, accessing, Using, or distributing any of the Data or Materials, You agree to all of the terms and conditions of this Agreement._
 
-
 1. Definitions.
 “Agreement” means this Source Available License comprising this document.
 “Data” includes data, graphs, Models (hereinafter defined) and/or text, if any, whether in text or non-code form, that may accompany any code or are made available to You as part of the Materials.
