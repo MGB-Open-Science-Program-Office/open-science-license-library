@@ -1,4 +1,4 @@
-MGB Open Source License 1.0
+**MGB Open Source License 1.0**
 
 MGB recommends a specific license for permissive open source distribution, the MGB Open Source License (MGB 1.0).
 
