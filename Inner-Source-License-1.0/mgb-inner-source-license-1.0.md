@@ -1,4 +1,4 @@
-MGB Inner Source License Version 1.0
+# MGB Inner Source License Version 1.0
 
 PREFACE
 
@@ -63,5 +63,6 @@ e)	Legal protection: This License does not permit the use of any trademarks, log
 
 11. Additional agreements. When the Licensee Distributes the Work, he, she, or they may enter into supplementary agreements that specify obligations or services consistent with this License.
 The Licensee may only incur obligations in its own name, not in the name of the original Licensor or any other processor, and only if it agrees to indemnify, defend, and hold harmless all processors from any claim or liability that may be asserted against them as a result of the warranty or assumption of liability it has entered into.
+
 END OF TERMS AND CONDITIONS
 
