@@ -1,4 +1,4 @@
-# MGB Inner Source License 1.0 Best Practices 
+# MGB Inner Source License 1.0 Best Practice Guide 
 
 **tldr:**
 
