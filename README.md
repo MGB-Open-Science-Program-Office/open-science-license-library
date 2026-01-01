@@ -7,4 +7,5 @@ Recommended MGB Open Science Licenses
 **Library Decision Tree**'
 
 
-<img width="1000" height="1300" alt="image" src="https://github.com/user-attachments/assets/9dd376f0-57aa-4062-8778-f96bab17e90d" />
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/10d8985a-b5bc-41b8-a2e8-f2ed5c7f3010" />
+
