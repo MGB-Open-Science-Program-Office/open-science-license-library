@@ -26,11 +26,12 @@ In addition to the legal framework for sharing code within an open-source-like d
 
 **Rights and obligations of the MGB Inner Source License**
 
-The MGB ISL maps rights and obligations known from open source licenses to the scenario of intra-group development.
+The MGB ISL maps rights and obligations known from open source licenses to the scenario of intra-system development.
 It is important to note that the resulting rights and freedoms are always limited to use and disclosure within the system. Any disclosure to parties outside the system  requires an explicit relicensing agreement, which must be obtained from the relevant rights holders. Please contact OpenScience@mgb.org for all relicensing support requests.
 
-**Software licensed under the MGB ISL fulfills the four freedoms of open source software within the group:**\
-1.	The software can be used without restrictions within the group
+**Software licensed under the MGB ISL fulfills the four freedoms of open source software within the system:**
+
+1.	The software can be used without restrictions within the system
 2.	The source code of the software is available to all users
 3.	Users can modify the software independently to make adjustments and improvements
 4.	Modified versions of the software may be distributed to others
