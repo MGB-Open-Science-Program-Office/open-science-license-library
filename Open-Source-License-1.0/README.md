@@ -2,4 +2,4 @@
 
 MGB recommends a specific license for permissive open source distribution, the MGB Open Source License (MGB 1.0).
 
-This directory contains the text of the [license](https://github.com/MGB-Open-Science-Program-Office/open-science-license-library/blob/main/Open-Source-License-1.0/mgb-open-source-license-1.0.md) and [best practices documentation](https://github.com/MGB-Open-Science-Program-Office/open-science-license-library/blob/main/Open-Source-License-1.0/mgb-open-source-license-1.0-best-practices.md) on how to use it.
+This directory contains the text of the [license](https://github.com/MGB-Open-Science-Program-Office/open-science-license-library/blob/main/Open-Source-License-1.0/mgb-open-source-license-1.0.md) and[ best practice guide](https://github.com/MGB-Open-Science-Program-Office/open-science-license-library/blob/main/Open-Source-License-1.0/best-practices-open-source-license-1.0.md) on how to use it.
