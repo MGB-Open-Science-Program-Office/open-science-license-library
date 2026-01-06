@@ -10,3 +10,7 @@
 
 <img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/10d8985a-b5bc-41b8-a2e8-f2ed5c7f3010" />
 
+
+# Adding Licenses to a Repository
+
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/deba9080-e1aa-43ca-9ec8-5d99cf6e4cac" />
