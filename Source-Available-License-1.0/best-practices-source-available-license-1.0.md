@@ -1,4 +1,4 @@
-#  MGB Soure Available Liense 1.0 Best Practices Guide
+#  MGB Source Available License 1.0 Best Practices Guide
 
 Source-Available and Open-Source describe different approaches to software distribution and use. The main difference between the two is the degree of freedom granted to Licensees regarding the usage, modification, and distribution of the software's source code, Data, and other Model Materials.
 
