@@ -1,4 +1,4 @@
-# MGB SOURCE AVAILABLE LICENSE (NC-ND)
+# MGB SOURCE AVAILABLE LICENSE
 
 These license terms are an agreement between You and Mass General Brigham Incorporated, a nonprofit corporation created and operating under the laws of the state of Massachusetts (or one of its affiliates)(the “Licensor”).
 
