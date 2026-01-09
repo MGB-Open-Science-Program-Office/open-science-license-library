@@ -1,6 +1,6 @@
-# MGB Open-Source License 1.0 Best Practice Guide
+# MGB Open Source License 1.0 Best Practice Guide
 
-The MGB Open Source License 1.0 (MGB 1.0) is a permissive license that was drafted to enable Open Source projects within highly regulated clincial-research spaace, such as within Mass General Brigham and other Academic Medical Centers. While the most popular permissive licenses (MIT and Apache 2.0) are quite similar to MGB OS 1.0, there are a number of key differences. 
+The MGB Open Source License 1.0 (MGB 1.0) is a permissive license that was drafted to enable Open Source projects within highly regulated clinical-research spaace, such as within Mass General Brigham and other Academic Medical Centers. While the most popular permissive licenses (MIT and Apache 2.0) are quite similar to MGB OS 1.0, there are a number of key differences. 
 
 # Use Cases
 
@@ -21,16 +21,15 @@ Open source licenses come in two varieties: Permissive and Copyleft. MGB OS 1.0 
 The license splits the open source code-based intellectual property into two groups of rights: Patent rights and Non – Patent rights. According to the open source definition, open source development must grant licensees freedom to use and distribute the software, which requires addressing patents alongside copyrights to truly enable unrestricted collaboration. This practice also prevents patent “trolls,” or aggressive litigation, ensuring that both the author and subsequent downstream users that they won't be sued for using the software they are utilizing. In an attempt to balance Mass General Brigham’s protectionist interest in its extensive patent portfolio with the proper downstream enablement of open source software, MGB 1.0 expressly limits licensed patents to contributor inventions that have elements (or “claims”) that overlap with (read: are embodied by) those of the licensed code.  Thus is a more narrowly tailored patent grant than the broader Apache 2.0 grant to “infringing” patent claims.  
 MGB 1.0’s grants are also compatible with emerging ai innovation where open science research results in the open sharing of machine learning models and algorithms which span code and database components. The large majority of previously available open source licenses were not compatible with the distribution of ai model materials which exist outside of copyright licensing schemes. 
 
-# Redistriubtion Requirements
+# Redistribution Requirements
 
 Anyone who redistributes open source software licensed under MGB 1.0 must include the following in their copy of the code:
-1.	The original copyright notice
+1.	All original copyright, patent, trademark, and attribution notices 
 2.	A copy of the license itself
-3.	A copy of the NOTICE file with attribution notes 
-4.	If applicable, a statement of any significant changes made to the original code 
-5.	If you distribute a changed version,  a searchable text-acknowledgment of the  Licensor
+3.	A copy of the NOTICE file with attribution notes
+4.	If applicable, a statement of any significant changes made to the original code
 
-The fifth requirement above is a major differentiator between the MGB 1.0 and other permissive licenses which do not require repository searchable inclusion of author acknowledgment. 
+The fourth requirement above is a major differentiator between the MGB 1.0 and other permissive licenses which do not require repository searchable inclusion of author acknowledgment. 
 Also of note is that the original code to  which the licensee adds improvements to is still (the license granted is irrevocable) covered by the MGB 1.0 license, hence the need to make sure that a copy of the original license follows along with any derivative works. This also connects to the obligation to identify the changes Licensees have made and introduced to the original version. This differentiation is needed, not only to understand which elements are covered by the original MGB 1.0 license but also to make sure that future users to identify any future improvements made by downstream licensees who retains full ownership and IP rights over their creation. Note:  These licensees (and the original author) are free to distribute additions in whichever way they desire, commercially or otherwise.
 
 # Use Summary
