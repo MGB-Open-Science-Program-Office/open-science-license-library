@@ -19,27 +19,42 @@ or otherwise expresses that they wish to license it under the MGB ISL.
 1. Definitions. The following definitions apply to this License:
 
 “Affiliate” shall mean any corporation or other legal entity controlling, controlled by or under common control with MGB.  The term “control” shall mean the power, direct or indirect, to elect or appoint fifty percent (50%) or more of the directors or trustees, or to cause direction of management and policies, whether through the ownership of voting securities, by contract or otherwise.
+
 "Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
+
 “Contributor” shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
 “Derivative Works” shall mean any work, whether in Source or Object Form, or in text or non-code form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof. 
+
 “Distribution” or “Making Available” shall mean any form of sale, transfer, loan, rental, distribution, disclosure, transmission or other online or offline making available of copies of the work or making its essential functions available to third parties, natural or legal persons.
+
 “License” shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 10 of this document.
+
 “Licensor” shall mean the legal entity within MGB that Distributes or Makes Available the Work under the License.
+
 “MGB” shall mean Mass General Brigham, Incorporated and all Affiliates of Mass General Brigham, Incorporated. 
+
 “Model Materials” shall mean the materials provided to you under this agreement that may be embodied in an artificial intelligence or machine learning model, including without limitation a collective work of authorship spanning model architecture, code in Source or Object Form, parameters, data descriptions, data, model weights, and all related artifacts.  
+
 “Object Form” shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+
 “Source Form” shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+
 “Work” shall mean the work, including without limitation software whether in Source or Object Form, data, databases, graphs, Model Materials, and documentation, Made Available under the License, as may be indicated by the Licensor applying these license terms to such Work.
+
 “You” (or “Your” or “Licensee”) shall mean any individual or Legal Entity within MGB that uses exercising permissions granted by this License.
 
 2. License Scope. The Licensor hereby grants you a worldwide, royalty-free, non-exclusive, sublicensable license that entitles you to use the Work for MGB clinical and research purposes:
-a)	to use the Work without restriction,
-b)	to reproduce the Work,
-c)	to modify the Work and to create adaptations based on the Work,
-d)	to Distribute the Work or copies thereof only within MGB.
+   
+     a)	to use the Work without restriction,
 
-Any currently known or future media, carriers and formats may be used to exercise these rights, provided that applicable law does not conflict with this.
-The Licensor grants You a non-exclusive, royalty-free right to use its patents, provided that this use is necessary to exercise the rights to use the Work granted by the license.
+     b)	to reproduce the Work,
+
+     c)	to modify the Work and to create adaptations based on the Work,
+
+     d)	to Distribute the Work or copies thereof only within MGB.
+
+Any currently known or future media, carriers and formats may be used to exercise these rights, provided that applicable law does not conflict with this. The Licensor grants You a non-exclusive, royalty-free right to use its patents, provided that this use is necessary to exercise the rights to use the Work granted by the license.
 
 3. Source Code Availability. By Making the Work Available, you agree to all of the terms and conditions of this Agreement and that the obligations set forth herein shall be binding and enforceable as a matter of contract, regardless of whether each component of the Work is subject to copyright, patent, or any other intellectual property protection. The Licensor may Make the Work Available either in Source Form or in Object Form. If the Licensor makes the Work available in Object Form, the Licensor shall provide a machine-readable copy of the Source Form for each copy of the Work that the Licensor distributes, or shall provide a notice following the copyright notice accompanying the Work indicating a location where the Work in Source Form may be readily accessed free of charge for as long as the Licensor continues to Distribute or Make Available the Work.
 
@@ -50,19 +65,24 @@ The Licensor grants You a non-exclusive, royalty-free right to use its patents, 
 6. Restrictions on Contributor Rights. It is not the purpose of this License to restrict any exceptions or limitations to the exclusive rights of the Contributor in the Work that are available to You. This License also does not affect the exhaustion of those rights.
 
 7. Licensee’s Obligations. The granting of the above rights is subject to several restrictions and obligations for the Licensee:
-a)	Inner Source: The Licensee may use the Work exclusively for the internal clinical and research purposes of MGB.
-b)	Copyright Notice, License Text, Attribution of Contributor: The Licensee must keep intact all copyright, patent, or trademark notices, as well as all notices regarding the License and disclaimer. The Licensee must include these notices and this License with each copy of the Work Distributed or Made Available by the Licensee. The Licensee must prominently indicate on each Derivative Work that the Work has been modified and indicate the date of the modification.
-c)	"Copyleft" clause: The Licensee may Distribute or Make Available copies of the original Work or Derivative Works only under the terms of this MGB ISL or a later version of this License within MGB. The Licensee (who becomes the Licensor) may not offer or impose additional terms for the Work or Derivative Work that modify or limit the terms of this License.
-d)	Provision of Source Code: If the Licensee Distributes or Makes Available copies of the Work, he must provide a machine-readable version in Source Form or specify a location where this Source Form code can be easily accessed free of charge for as long as the Licensee Distributes or makes Available the Work.
-e)	Legal protection: This License does not permit the use of any trademarks, logos, or proprietary rights of the Licensor, except as is necessary for the reasonable and customary description of the source of the Work and the reproduction of the appropriate notice.
+   
+     a)	Inner Source: The Licensee may use the Work exclusively for the internal clinical and research purposes of MGB.
+   
+     b)	Copyright Notice, License Text, Attribution of Contributor: The Licensee must keep intact all copyright, patent, or trademark notices, as well as all notices regarding the License and disclaimer. The Licensee must include these notices and this License with each copy of the Work Distributed or Made    Available by the Licensee. The Licensee must prominently indicate on each Derivative Work that the Work has been modified and indicate the date of the modification.
+   
+     c)	"Copyleft" clause: The Licensee may Distribute or Make Available copies of the original Work or Derivative Works only under the terms of this MGB ISL or a later version of this License within MGB. The Licensee (who becomes the Licensor) may not offer or impose additional terms for the Work or Derivative Work that modify or limit the terms of this License.
+   
+     d)	Provision of Source Code: If the Licensee Distributes or Makes Available copies of the Work, he must provide a machine-readable version in Source Form or specify a location where this Source Form code can be easily accessed free of charge for as long as the Licensee Distributes or makes Available the Work.
+   
+     e)	Legal protection: This License does not permit the use of any trademarks, logos, or proprietary rights of the Licensor, except as is necessary for the reasonable and customary description of the source of the Work and the reproduction of the appropriate notice.
 
-8. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate agreement you may have executed with Licensor regarding such Contributions, including all MGB employment and Intellectual Property policies.
+9. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate agreement you may have executed with Licensor regarding such Contributions, including all MGB employment and Intellectual Property policies.
 
-9. Disclaimer of Warranty. The Work licensed to You under this License is provided by Licensor (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of Distributing or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
+10. Disclaimer of Warranty. The Work licensed to You under this License is provided by Licensor (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of Distributing or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 
-10. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
+11. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 
-11. Additional agreements. When the Licensee Distributes the Work, he, she, or they may enter into supplementary agreements that specify obligations or services consistent with this License.
+12. Additional agreements. When the Licensee Distributes the Work, he, she, or they may enter into supplementary agreements that specify obligations or services consistent with this License.
 The Licensee may only incur obligations in its own name, not in the name of the original Licensor or any other processor, and only if it agrees to indemnify, defend, and hold harmless all processors from any claim or liability that may be asserted against them as a result of the warranty or assumption of liability it has entered into
 
 END OF TERMS AND CONDITIONS
