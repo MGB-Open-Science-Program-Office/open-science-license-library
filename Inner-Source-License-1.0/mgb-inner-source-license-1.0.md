@@ -12,7 +12,9 @@ TERMS AND CONDITIONS
 This MGB Inner Source License ("MGB ISL") applies to Works (as defined below) Made Available under the MGB ISL terms. The work may only be used in the manner permitted by this License (to the extent that such use is reserved to You.)
 The Work is Made Available under the terms of this License if the Licensor places the following notice immediately after the copyright notice on this work:
 
-“Licensed under the MGB ISL”  or otherwise expresses that they wish to license it under the MGB ISL.
+“Licensed under the MGB ISL” 
+
+or otherwise expresses that they wish to license it under the MGB ISL.
 
 1. Definitions. The following definitions apply to this License:
 
@@ -37,10 +39,9 @@ c)	to modify the Work and to create adaptations based on the Work,
 d)	to Distribute the Work or copies thereof only within MGB.
 
 Any currently known or future media, carriers and formats may be used to exercise these rights, provided that applicable law does not conflict with this.
-
 The Licensor grants You a non-exclusive, royalty-free right to use its patents, provided that this use is necessary to exercise the rights to use the Work granted by the license.
 
-3. Source Code Availability. The Licensor may Make the Work Available either in Source Form or in Object Form. If the Licensor makes the Work available in Object Form, the Licensor shall provide a machine-readable copy of the Source Form for each copy of the Work that the Licensor distributes, or shall provide a notice following the copyright notice accompanying the Work indicating a location where the Work in Source Form may be readily accessed free of charge for as long as the Licensor continues to Distribute or Make Available the Work.
+3. Source Code Availability. By Making the Work Available, you agree to all of the terms and conditions of this Agreement and that the obligations set forth herein shall be binding and enforceable as a matter of contract, regardless of whether each component of the Work is subject to copyright, patent, or any other intellectual property protection. The Licensor may Make the Work Available either in Source Form or in Object Form. If the Licensor makes the Work available in Object Form, the Licensor shall provide a machine-readable copy of the Source Form for each copy of the Work that the Licensor distributes, or shall provide a notice following the copyright notice accompanying the Work indicating a location where the Work in Source Form may be readily accessed free of charge for as long as the Licensor continues to Distribute or Make Available the Work.
 
 4. Included Data; Personal Information. The Work may include data, graphs, and Model Materials, and if so, You may use and modify such data, graphs, and Model Materials, provided that You may have obligations to comply with laws concerning privacy or protected health information (hereinafter referred to as “PHI”), including as defined in 45 CFR §160.103 of the Health Insurance Portability and Accountability Act (HIPAA) of the United States, and this License does not excuse or limit  any such obligations.  
 
@@ -62,7 +63,6 @@ e)	Legal protection: This License does not permit the use of any trademarks, log
 10. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 
 11. Additional agreements. When the Licensee Distributes the Work, he, she, or they may enter into supplementary agreements that specify obligations or services consistent with this License.
-The Licensee may only incur obligations in its own name, not in the name of the original Licensor or any other processor, and only if it agrees to indemnify, defend, and hold harmless all processors from any claim or liability that may be asserted against them as a result of the warranty or assumption of liability it has entered into.
+The Licensee may only incur obligations in its own name, not in the name of the original Licensor or any other processor, and only if it agrees to indemnify, defend, and hold harmless all processors from any claim or liability that may be asserted against them as a result of the warranty or assumption of liability it has entered into
 
 END OF TERMS AND CONDITIONS
-
