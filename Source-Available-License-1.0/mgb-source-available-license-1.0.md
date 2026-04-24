@@ -2,16 +2,24 @@
 
 These license terms are an agreement between You and Mass General Brigham Incorporated, a nonprofit corporation created and operating under the laws of the state of Massachusetts (or one of its affiliates)(the “Licensor”).
 
-_By installing, downloading, accessing, Using, or distributing any of the Data or Materials, You agree to all of the terms and conditions of this Agreement._
+By installing, downloading, accessing, Using, or distributing any of the Data or Materials, You agree to all of the terms and conditions of this Agreement and that the obligations set forth herein shall be binding and enforceable as a matter of contract, regardless of whether each component of the Data or Materials is subject to copyright, patent, or any other intellectual property protection.
 
 1. Definitions.
+
 “Agreement” means this Source Available License comprising this document.
+
 “Data” includes data, graphs, Models (hereinafter defined) and/or text, if any, whether in text or non-code form, that may accompany any code or are made available to You as part of the Materials.
+
 “Legal Entity” means the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, “control” means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding voting shares of such entity, or (iii) beneficial ownership of such entity.
+
 “Licensor” means the entity offering this Agreement which includes Mass General Brigham Incorporated and its affiliates offering this Agreement.
+
 “Materials” shall mean the work of authorship, whether in source or object form, and text or non-code form, made available under this Agreement, which may be indicated by a copyright notice included in or attached.
+
 “Model(s)” shall mean the materials provided to you under this agreement that may be embodied in an artificial intelligence or machine learning model, including without limitation a collective work of authorship spanning model architecture, code in source or object Form, parameters, data descriptions, data, model weights, and all related artifacts. 
+
 “Use” and “Using” shall mean and include anything You do with the Data or Materials, including anything You do with the Data or Materials that requires any license, transfer or assignment from You.
+
 “You” (or “Your”) shall mean an individual or Legal Entity exercising permissions granted by this License.
 
 2. Scope of Agreement.
@@ -22,18 +30,28 @@ Subject to the terms of this Agreement, Licensor licenses You to Use the Data an
 
 4. Limitations.
 Unless applicable law gives You more rights despite this Agreement, You may not:
-(a)	work around any technical limitations in the Materials or any accompanying instructions that only allow You to Use it in certain ways;
-(b)	reverse engineer, decompile or dissemble the Materials; 
-(c)	remove, minimize, block or modify any notices Licensor supplies in the Materials or on any output from the Materials;
-(d)	Use the Materials in any way that is against the law or to create or propagate viruses, malware, or misinformation; 
-(e)	alter or remove any patent, trademark, authorship, copyright, or other notices in the Materials; or
-(f)	transfer this Agreement, or any of Your obligations or rights under this Agreement, to any third party.  However, You may share the Data and Materials without any changes or modifications for non-commercial and non-revenue generating purposes.
+
+     (a)	work around any technical limitations in the Materials or any accompanying instructions that only allow You to Use it in certain ways;
+
+     (b)	reverse engineer, decompile or dissemble the Materials; 
+
+     (c)	remove, minimize, block or modify any notices Licensor supplies in the Materials or on any output from the Materials;
+
+     (d)	Use the Materials in any way that is against the law or to create or propagate viruses, malware, or misinformation; 
+
+     (e)	alter or remove any patent, trademark, authorship, copyright, or other notices in the Materials; or
+
+     (f)	transfer this Agreement, or any of Your obligations or rights under this Agreement, to any third party.  However, You may share the Data and Materials without any changes or modifications for non-commercial and non-revenue generating purposes.
 
 5. No Implied Rights.
-(a)	Rights not expressly granted are reserved to Licensor.
-(b)	For the avoidance of doubt, Licensor may also offer the licensed Materials to others under separate terms or conditions, or stop distributing the Material at any time; however, doing so will not alter or terminate this Agreement to You.
-(c)	This Agreement does not include any express or implied license to any invention, patentable subject matter, or patent, of any kind or nature in any country or jurisdiction in the world.
-(d)	The Materials may include Data, graphs, and / or Models, and if so, You are permitted to use and modify such Data, graphs, and Models according to the terms of this Agreement, provided that You may have obligations to comply with laws and policies concerning personal data or patient health information, and this Agreement does not excuse or limit any such obligations.
+
+     (a)	Rights not expressly granted are reserved to Licensor.
+
+     (b)	For the avoidance of doubt, Licensor may also offer the licensed Materials to others under separate terms or conditions, or stop distributing the Material at any time; however, doing so will not alter or terminate this Agreement to You.
+
+     (c)	This Agreement does not include any express or implied license to any invention, patentable subject matter, or patent, of any kind or nature in any country or jurisdiction in the world.
+
+     (d)	The Materials may include Data, graphs, and / or Models, and if so, You are permitted to use and modify such Data, graphs, and Models according to the terms of this Agreement, provided that You may have obligations to comply with laws and policies concerning personal data or patient health information, and this Agreement does not excuse or limit any such obligations..
 
 6. Disclaimer of Warranties. The Data and Materials licensed to You under this Agreement is provided by Licensor on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. Licensor makes no warranty or representation (i) regarding the validity or scope of any of the Materials or licensed intellectual property, and (ii) that the exploitation of the Data and Materials or licensed intellectual property will not infringe any patents or other intellectual property rights of Licensor or of any third party. You are solely responsible for determining the appropriateness of Using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 
